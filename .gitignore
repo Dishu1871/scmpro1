@@ -1,0 +1,13 @@
+  GNU nano 8.2                       .gitignore                       Modified
+
+# Ignore log files
+*.log
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment files
+.env
